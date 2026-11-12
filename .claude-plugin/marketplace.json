@@ -1,0 +1,9 @@
+{
+  "name": "centrim",
+  "owner": { "name": "Centrim engineering" },
+  "plugins": [
+    { "name": "centrim-core", "source": "./plugins/centrim-core", "description": "Gate workflow (G0 to G6) for Centrim feature delivery." },
+    { "name": "centrim-frontend", "source": "./plugins/centrim-frontend", "description": "React frontend agents and skills for Centrim." },
+    { "name": "centrim-laravel", "source": "./plugins/centrim-laravel", "description": "Laravel backend agents and skills for Centrim." }
+  ]
+}
